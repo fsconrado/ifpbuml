@@ -16,8 +16,8 @@
     ],
     "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/fsconrado/issues",
+        "email": "fsconrado@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/fsconrado/issues"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
